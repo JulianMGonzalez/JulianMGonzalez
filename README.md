@@ -5,16 +5,20 @@
 
 <b>Languages and Tools</b> <br>
 
-<p align="center">
- 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vuejs)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![Phyton](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-
-</p>
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/source.gif" width="50">
+   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/source.gif" width="50">
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
+   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/source.gif" width="50">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+   <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/source.gif" width="70">
+  <p>
+</div> 
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
