@@ -1,3 +1,4 @@
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JulianMGonzalez&show_icons=true&theme=radical"/>](https://github.com/JulianMGonzalez/)
 ### Hi there 👋
 
 <!--
@@ -26,7 +27,12 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vuejs)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![Phyton](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+
 </p>
+
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-![JulianMGonzalez](https://github-readme-stats.vercel.app/api?username=JulianMGonzalez&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p aling="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+</p>
