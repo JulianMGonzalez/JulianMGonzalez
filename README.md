@@ -1,4 +1,5 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JulianMGonzalez&show_icons=true&theme=radical"/>](https://github.com/JulianMGonzalez/)
+
+
 ### Hi there 👋
 
 
@@ -20,8 +21,31 @@
 </div> 
 
 
-<p align="center">
-
-  <img src="https://media.giphy.com/media/cJ2PFgNuBcBNQ8MGGF/source.gif" width="200"/>
-
-</p>
+<div align="center">
+    <div>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianMGonzalez&layout=compact&langs_count=8&theme=gotham&hide_border=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JulianMGonzalez&layout=compact&langs_count=8&theme=graywhite&hide_border=false"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img />
+      </picture>
+    </div>
+    <div>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianMGonzalez&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=JulianMGonzalez&show_icons=true&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img />
+      </picture>
+    </div>
+  </div>
